@@ -3,6 +3,8 @@
 You can see the output in console as well as alert dialog box.   
 # Problem
 ![image](https://user-images.githubusercontent.com/44205030/112806170-24175300-9094-11eb-9b19-fe6efeebe7d0.png)   
+# Flowchart
+![image](https://user-images.githubusercontent.com/44205030/112811353-9a6a8400-9099-11eb-907c-22782de40678.png)   
 # Code
 // 12:00:00AM   
 setTimeout(time,1000);   
