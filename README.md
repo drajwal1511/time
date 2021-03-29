@@ -1,4 +1,6 @@
 # Time
+# Note
+You can see the output in console as well as alert dialog box.   
 # Problem
 ![image](https://user-images.githubusercontent.com/44205030/112806170-24175300-9094-11eb-9b19-fe6efeebe7d0.png)   
 # Code
