@@ -70,5 +70,6 @@ function time(){
         newtime+="0";
     }
     newtime+=s;
+    alert("Output "+newtime);
     console.log("Output ",newtime);
 }
