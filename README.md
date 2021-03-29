@@ -1,5 +1,6 @@
-# time
+# Time
 # Problem
+![image](https://user-images.githubusercontent.com/44205030/112806170-24175300-9094-11eb-9b19-fe6efeebe7d0.png)   
 # Code
 // 12:00:00AM   
 setTimeout(time,1000);   
